@@ -22,3 +22,4 @@
     grep  -Pzo '(?s)^\<!--\s+'$section'\s+-->\s?\n\K(.+?)(?=\n<!--|\Z)' $@
   }
 ```
+* Bash: Things I wish I knew before: https://news.ycombinator.com/item?id=16084763
