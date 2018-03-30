@@ -1,4 +1,9 @@
 
+* perf stat -r N -d CMD is a great way to measure command running time on Linux.
+
+* Various tip to inspect the system: https://news.ycombinator.com/item?id=16685452
+
+* https://dev.to/brpaz/my-linux-development-environment-of-2018-ch7
 
 * MAN pages: https://news.ycombinator.com/item?id=15775886
 * C, Unix, and low-level programming: http://vendu.twodots.nl/wizardcode.html
