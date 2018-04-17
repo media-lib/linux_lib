@@ -1,4 +1,8 @@
 
+* Void Linux:
+  * http://www.troubleshooters.com/linux/void/voidtips.htm
+  * http://www.troubleshooters.com/linux/void/index.htm
+
 * perf stat -r N -d CMD is a great way to measure command running time on Linux.
 
 * Various tip to inspect the system: https://news.ycombinator.com/item?id=16685452
