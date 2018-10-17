@@ -1,4 +1,7 @@
 
+* Linux
+  * https://ops.tips
+
 * Void Linux:
   * http://www.troubleshooters.com/linux/void/voidtips.htm
   * http://www.troubleshooters.com/linux/void/index.htm
